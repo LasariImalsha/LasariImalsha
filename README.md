@@ -1,8 +1,7 @@
 ### Hey, I'm Lasari Imalsha 
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800" height="300">
 
-<br />
 <br />
 
 ## Who am I?

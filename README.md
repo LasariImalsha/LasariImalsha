@@ -9,7 +9,7 @@
  ```python
   class WhoAmI:
     user = 'Lasari Imalsha'
-	   current_edu = ("IJSE")
+    current_edu = ("IJSE")
     currently_learning = {"Python"}
     hobbies = ['Music', 'Reading', 'Movies', 'Volunteering']
 	

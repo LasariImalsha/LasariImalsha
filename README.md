@@ -1,6 +1,6 @@
 ### Hey, I'm Lasari Imalsha 
 
-https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <br />
 <br />

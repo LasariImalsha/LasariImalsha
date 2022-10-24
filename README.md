@@ -1,6 +1,6 @@
-### Hey, I'm [Lasari Imalsha!]
+### Hey, I'm Lasari Imalsha 
 
-<img scr="https://fineartamerica.com/featured/1-coder-programming-it-female-programmer-gift-muc-designs.html">
+![1-coder-programming-it-female-programmer-gift-muc-designs](https://user-images.githubusercontent.com/101311493/197531945-f36ad8c8-14f4-4206-b097-70958aefa8e8.jpg)
 
 <br />
 <br />
@@ -63,10 +63,8 @@
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
-	<a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-white.svg?logo=Jupyter&logoColor="></a>
-	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-1D7CE5.svg?logo=intellij-idea&logoColor=black"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>	
+    <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-1D7CE5.svg?logo=intellij-idea&logoColor=black"></a>
 </p>
 
 ## Connect with Me

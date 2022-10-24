@@ -1,6 +1,6 @@
 ### Hey, I'm [Lasari Imalsha!]
 
-<img scr="https://fineartamerica.com/featured/1-coder-programming-it-female-programmer-gift-muc-designs.html" width="200" height="80">
+<img scr="https://fineartamerica.com/featured/1-coder-programming-it-female-programmer-gift-muc-designs.html">
 
 <br />
 <br />

@@ -1,6 +1,6 @@
 ### Hey, I'm Lasari Imalsha 
 
-![1-coder-programming-it-female-programmer-gift-muc-designs](https://user-images.githubusercontent.com/101311493/197531945-f36ad8c8-14f4-4206-b097-70958aefa8e8.jpg)
+https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 
 <br />
 <br />
@@ -75,7 +75,6 @@
  <a href="mailto:lasariwijayardhana@gmail.com"><img alt="Gmail" title="Lasari Imalsha Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/LasariImalsha"><img alt="Telegram" title="Lasari Imalsha Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
------
 &nbsp;
 
 -----
